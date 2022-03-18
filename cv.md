@@ -40,3 +40,20 @@ def count_letters(s):
     print(f'Number of uppercase letters: {n}')
     print(f'number of  lowercase letters: {k}')
 ```
+### Education
+
+**Secondary professional education**  
+Car mechanic
+
+### Courses
+
+- [«JavaScript/Front-end»](https://rs.school/js/) - in progress
+- [Python от egoroff_channel](https://stepik.org/cert/1210972)
+- [Programming on Python](https://stepik.org/cert/1049927)
+
+### Languages
+
+- Russian (native)
+- English (A2) -  in progress
+- Polish (A1)
+
