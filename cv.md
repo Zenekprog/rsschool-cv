@@ -48,7 +48,7 @@ Car mechanic
 ### Courses
 
 - [«JavaScript/Front-end»](https://rs.school/js/) - in progress
-- [Python от egoroff_channel](https://stepik.org/cert/1210972)
+- [Python from  egoroff_channel](https://stepik.org/cert/1210972)
 - [Programming on Python](https://stepik.org/cert/1049927)
 
 ### Languages
