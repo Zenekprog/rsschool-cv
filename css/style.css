@@ -25,6 +25,7 @@ body {
 }
 
 .header {
+    padding: 15px 0;
     background-color: rgba(0, 90, 130, 0.9);
     color: #d4d4d4;
 }
@@ -35,8 +36,8 @@ body {
     align-items: center;
 }
 .nav-item {
+    line-height: 30px;
     padding: 0 15px;
-    line-height: 60px;
 }
 .nav-item:last-child {
     padding-right: 0;
@@ -155,6 +156,26 @@ h2 {
     width: 100px;
 }
 .logo-git{
-    height: 60px;
+    width: 60px;
 }
 
+
+@media (max-width: 768px) {
+    .nav-list{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .profile{
+        flex-direction: column;
+        row-gap: 30px;
+    }
+    .profile-logo {
+        width: 100%;
+    }
+.content {
+        width: 100%;
+    }
+    .section {
+    width: 100%;
+    }
+}
