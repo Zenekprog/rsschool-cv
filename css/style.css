@@ -1,1 +1,12 @@
 @import url(./reset.css);
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
