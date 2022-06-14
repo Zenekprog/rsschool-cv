@@ -25,9 +25,16 @@ body {
 }
 
 .header {
-    padding: 15px 0;
-    background-color: rgba(0, 90, 130, 0.9);
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+    padding: 10px 0;
+    background-color: rgba(0, 90, 130, 1);
     color: #d4d4d4;
+}
+
+.main{
+    padding-top: 50px;
 }
 
 .nav-list {
@@ -66,6 +73,7 @@ body {
 .section-item {
     position: relative;
     padding-left: 25px;
+    z-index: 1;
 }
 
 .section-item::before {
